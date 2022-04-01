@@ -2,7 +2,7 @@
 #include <unistd.h>
 #include <stdarg.h>
 
-//Remove fom
+//Remove from
 #include <stdio.h>
 //Remove to
 
